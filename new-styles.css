@@ -321,7 +321,7 @@ nav {
 
 .dropdown:hover .nav-menu {
   display: flex;
-  flex-direction: column-reverse;
+  flex-direction: column;
   background: #d9d9d9;;
   padding-bottom: : 100px;
   border: 1px solid black;
@@ -434,7 +434,7 @@ nav {
 
 .dropdown:hover .nav-menu {
   display: flex;
-  flex-direction: column-reverse;
+  flex-direction: column;
   background: #d9d9d9;
   padding-bottom: : 100px;
   border: 1px solid black;
