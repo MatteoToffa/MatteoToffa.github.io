@@ -342,9 +342,9 @@ nav {
   margin: 10px;
 }
 
-.nav-menu li:first-of-type {
+/*.nav-menu li:first-of-type {
     padding-bottom: 50px;
-}
+}*/
 
 .dropdown {
   position: relative;
@@ -453,9 +453,9 @@ nav {
     margin: 10px;
 }
 
-.nav-menu li:first-of-type {
+/*.nav-menu li:first-of-type {
   padding-bottom: 50px;
-}
+}*/
 
 .dropdown {
   position: relative;
