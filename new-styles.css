@@ -133,7 +133,6 @@ li > a:active {
   height: 250px;
   margin-bottom: 10px;
   border-radius: 40px;
-  background-image: linear-gradient(white, #f4894f);
   display: flex;
   justify-content: center;
 
@@ -702,8 +701,8 @@ header {
 
 .my-logo {
   padding-top: 10px;
-  width: 130px;
-  height: 110px;
+  width: 110px;
+  height: 90px;
 }
 
 .container {
