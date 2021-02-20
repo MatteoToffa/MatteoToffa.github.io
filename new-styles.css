@@ -328,7 +328,6 @@ nav {
   border-radius: 3px;
 
   position: absolute;
-  top: -150px;
   left: -130px;
   z-index: 1;
 }
@@ -440,7 +439,6 @@ nav {
   border: 1px solid black;
   border-radius: 3px;
   position: absolute;
-  top: -150px;
   left: -130px;
   z-index: 1;
 }
